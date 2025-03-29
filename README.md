@@ -1,5 +1,7 @@
 # Terraform Opensearch Resources
 
+**Suspended**: I've since had to learn GoLang for work so would prefer to upstream resouce support in the provider directly
+
 Terraform module for as-yet-unsupported resources in the official provider.
 
 Presently unstable.
